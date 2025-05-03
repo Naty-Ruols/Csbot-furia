@@ -18,7 +18,7 @@ Um chatbot interativo e estilizado com os personagens da FURIA Esports. Desenvol
 
 ## 📸 Preview
 
-![preview]([link-da-imagem-ou-gif-do-app](https://linkdireto.co/JDBGcJ)
+![preview](https://linkdireto.co/JDBGcJ)
 
 ## 💡 Autora
 
